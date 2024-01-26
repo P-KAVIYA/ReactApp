@@ -1,0 +1,11 @@
+ol{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:black;
+    padding:20px;
+    list-style-type: none;
+    color: white;
+    margin: 0px;
+    
+}C
+/* #3f18db */

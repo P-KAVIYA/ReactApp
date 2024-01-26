@@ -4,7 +4,7 @@ class Login extends React.Component {
     render() {
         return (
             <div>
-                <h1>login here</h1>
+                <h1 style={{ "color": "black", "backgroundColor": "white" }}>if you are new to our website,kindly login here</h1>
             </div>
         )
     }
